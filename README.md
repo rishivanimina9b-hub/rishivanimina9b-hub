@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Rishi Vanimina 👋
 
-<!--
-**rishivanimina9b-hub/rishivanimina9b-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer and B.Tech student at **Laxmi Narain College of Technology (LNCT), Bhopal**. I enjoy building useful web experiences and growing my skills across frontend and backend development.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Personal portfolio](https://rishivanimina9b-hub.github.io/portfolio/)** - a responsive portfolio built with HTML, CSS, and JavaScript.
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+## Find me online
+
+- [GitHub](https://github.com/rishivanimina9b-hub)
+- [Portfolio](https://rishivanimina9b-hub.github.io/portfolio/)
+
+---
+
+_Thanks for stopping by!_
